@@ -9,4 +9,8 @@ I am also going to use seam sealer where possible.
 
 Top piece: <img src="https://github.com/miniluigi/TopHalfFrameBag/assets/45057973/fc01b7b7-eb75-4396-ad1e-b3732044e7c2" width="160" >
 
+Zipper: <img src="https://github.com/miniluigi/TopHalfFrameBag/assets/45057973/fdb8cab2-6916-4840-9382-a2195c0c1cfe" width="160" >
+
+Bottom piece:  <img src="https://github.com/miniluigi/TopHalfFrameBag/assets/45057973/1444d530-1d85-4166-8a31-ea35d80225b4" width="160" >
+
 
