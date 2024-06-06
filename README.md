@@ -14,7 +14,15 @@ Zipper: <img src="https://github.com/miniluigi/TopHalfFrameBag/assets/45057973/f
 Bottom piece:  <img src="https://github.com/miniluigi/TopHalfFrameBag/assets/45057973/1444d530-1d85-4166-8a31-ea35d80225b4" width="160" >
 
 Zipper learnings:
-<img src="https://github.com/miniluigi/TopHalfFrameBag/assets/45057973/9b787068-edb9-4f4a-96d3-a9c1d5b41e59" width="400" >
+
+<img src="https://github.com/miniluigi/TopHalfFrameBag/assets/45057973/9b787068-edb9-4f4a-96d3-a9c1d5b41e59" width="200" >
 
 I like color combos!
-Want to add ~7mm of black material to the zipper width so that the gusset nicely tucks the zipper head inside. To do this I used 
+Want to add ~7mm of black material to the zipper width so that the gusset nicely tucks the zipper head inside. To do this I cut a width 28 (7+7*3).
+When sewed together the zipper and the extra material have a width of 56 (16+21+21 give or take)
+The purple piece is therefore a width of 56.
+Purple done wrong in this photo... should be done as wrong sides together (sew close to end).
+Fold wrong sides out and sew close to edge.
+Fold right sides together.
+Fold back right sides out and sew inside seam allowance.
+
